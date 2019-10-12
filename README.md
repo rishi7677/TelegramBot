@@ -24,3 +24,7 @@ All types and methods of the Telegram Bot API 4.1 are supported.
 You can install or upgrade python-telegram-bot with:
 
 $ pip install python-telegram-bot --upgrade
+
+# Execution
+run main.py 
+
